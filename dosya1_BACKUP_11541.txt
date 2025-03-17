@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-birinci dosya değişti mainde değişti
-=======
-birinci dosya değişti featurede değişti
->>>>>>> examine1
