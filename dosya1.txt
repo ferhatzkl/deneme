@@ -1,1 +1,1 @@
-bu satır silindi main tabta
+son denemede dosya değişti featurede değişti
